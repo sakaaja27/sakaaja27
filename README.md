@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I am an Informatics Engineering student. I'm a web developer and frontend developer 🕺🏽
 
 **I love working with**
 
