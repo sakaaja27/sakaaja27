@@ -36,10 +36,10 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/bramastaah?igsh=MXg4azVmazRzN2Vpdg==">
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=JtMTLYol&id=28EEB15E8DCD1CAF765AA28CCA1FAA8DDEEBAC1E&thid=OIP.JtMTLYolw3bqNo3gfDDXzgHaHa&mediaurl=https%3a%2f%2fwebstockreview.net%2fimages%2finstagram-clipart-full-hd.png&exph=900&expw=900&q=Instagram+Icon+Transparent+Background&simid=608001665804677751&FORM=IRPRST&ck=B9E45034BA8E4EAEEB09EA3602632EEA&selectedIndex=3&itb=1&ajaxhist=0&ajaxserp=0" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="https://wa.me/+6285760199917">
+    <img src="https://img.shields.io/badge/whatshapp-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
