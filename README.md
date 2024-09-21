@@ -32,9 +32,9 @@ I am an Informatics Engineering student. I'm a web developer and frontend develo
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBBa3R5_qhmyzxGNVp9vetDXt4oEGYPGRDlcuLf5kQFa1GJA/viewform?usp=sf_link">
+<!--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBBa3R5_qhmyzxGNVp9vetDXt4oEGYPGRDlcuLf5kQFa1GJA/viewform?usp=sf_link">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/bramastaah?igsh=MXg4azVmazRzN2Vpdg==">
     <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
