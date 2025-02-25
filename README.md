@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi King 👋
 
 I'm an Informatics Engineering student passionate about web development and frontend engineering 🚀
 
